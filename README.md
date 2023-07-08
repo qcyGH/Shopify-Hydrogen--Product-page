@@ -1,5 +1,5 @@
 # Shopify Hydrogen: Product page
-![Preview](https://github.com/qcyGH/Shopify-Hydrogen--Product-page/blob/main/preview.jpg "Preview")
+![Preview](https://github.com/qcyGH/Shopify-Hydrogen--Product-page/blob/main/preview.png "Preview")
 
 ## Description
 
